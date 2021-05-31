@@ -7,8 +7,6 @@ using namespace std;
 typedef vector<int> vi;
 typedef pair<int, int> pi;
 
-fio;
-
 int main(){
 	//solution here
 }
